@@ -46,9 +46,7 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^1.0.0
   simple_map_viewer:
-    git:
-      url: https://github.com/tanmoy27112000/simple_map_viewer
-      ref: master
+    path: D:/simple_map_viewer
 
 
 # For information on the generic Dart part of this file, see the

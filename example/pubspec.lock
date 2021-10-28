@@ -105,11 +105,9 @@ packages:
   simple_map_viewer:
     dependency: "direct dev"
     description:
-      path: "."
-      ref: master
-      resolved-ref: d58b00e0416002d72015b177481ea8e61c890b94
-      url: "https://github.com/tanmoy27112000/simple_map_viewer"
-    source: git
+      path: "D:/simple_map_viewer"
+      relative: false
+    source: path
     version: "0.0.1"
   sky_engine:
     dependency: transitive
